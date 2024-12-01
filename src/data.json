@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firstName": "Rajeev",
+    "lastName": "Sharma",
+    "dob": "1988-02-12",
+    "address": "1001 Noble St STE 1",
+    "city": "Fairbanks",
+    "state": "AK",
+    "zip": "99701",
+    "email": "rajeevsharma@gmail.com",
+    "phone": "2562562562"
+  },
+  {
+    "id": 2,
+    "firstName": "Eesha",
+    "lastName": "Sharma",
+    "dob": "1995-07-04",
+    "address": "4821 Ridge Top CIR",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99606",
+    "email": "eeshasharma@gmail.com",
+    "phone": "9999999999"
+  }
+]
